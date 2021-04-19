@@ -1,0 +1,12 @@
+a=15
+b=int('3')
+c=12
+print(type(a))
+print(type(b))
+print(type(c))
+d=float(c)
+print(type(d),d)
+e=int(d)
+print(type(e),e)
+s=str(e)
+print(type(s),s)
